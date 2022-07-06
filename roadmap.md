@@ -9,3 +9,7 @@
  
 - 7/6: 
   - [x] rustlings env setup
+  - [x] posting daily update repo to [学习过程记录表](https://github.com/LearningOS/rust-based-os-comp2022/issues/1)
+  - [x] resolved a few rustlings excersise
+  - [ ] start reading [Rust Course](https://course.rs/basic/intro.html)  
+  - [ ] [RISC-V book](http://riscvbook.com/chinese/RISC-V-Reader-Chinese-v2p1.pdf) start 
