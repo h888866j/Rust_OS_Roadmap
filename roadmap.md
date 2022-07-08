@@ -13,3 +13,10 @@
   - [x] resolved a few rustlings excersise
   - [ ] start reading [Rust Course](https://course.rs/basic/intro.html)  
   - [ ] [RISC-V book](http://riscvbook.com/chinese/RISC-V-Reader-Chinese-v2p1.pdf) start 
+  
+- 7/7:
+  - [x] rustlings 49/84
+  - [x] rust practise 
+
+- 7/8:
+  - [x] rustlings
