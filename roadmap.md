@@ -19,4 +19,7 @@
   - [x] rust practise 
 
 - 7/8:
-  - [x] rustlings
+  - [x] rustlings 59/84
+
+-7/9:
+  - [x] rustlings 71/84
