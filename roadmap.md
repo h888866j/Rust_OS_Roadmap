@@ -23,3 +23,7 @@
 
 - 7/9:
   - [x] rustlings 71/84
+
+- 7/10
+  - [x] rustlings 83/84
+  - [ ] test_downcast not working yet.   
