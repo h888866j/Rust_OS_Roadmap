@@ -1,5 +1,17 @@
 # Roadmap
 
+## Week 7/11 - 7/17
+
+- 7/11：
+  - [ ] 计算机组成基础 
+- 7/12：
+  - [ ] 计算机组成基础 
+- 7/14：
+  - [x] first video 
+
+-7/17： 
+  - [x] rustlings autograding
+
 ## Week 7/5 - 7/10
 
 - **7/5:** 
@@ -25,5 +37,5 @@
   - [x] rustlings 71/84
 
 - 7/10
-  - [x] rustlings 83/84
-  - [ ] test_downcast not working yet.   
+  - [x] rustlings 84/84
+  
